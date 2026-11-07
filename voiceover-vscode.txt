@@ -1,0 +1,31 @@
+﻿Visual Studio Code — Vertical Short (recorded voiceover)
+========================================================
+
+Composition: VSCodeShort | 1080x1920 | 30fps | 32.5s (975 frames)
+Audio: public/voice/vscode/the voice.mp3 (your recording, 32.03s)
+Word timings: scripts/vscode-short-voice-transcript.json
+
+-----------------------------------------------------------------
+[0:00 - 0:05] Scene 1 — Hook (0s)
+إزاي تبني موقع؟ فين تكتب الأكواد؟ وإزاي الأكواد دي بتتحول لموقع؟
+
+[0:05 - 0:09.8] Scene 2 — VS Code intro (5.00s)
+الإجابة في Visual Studio Code، المحرر اللي تكتب فيه كل أكوادك.
+
+[0:09.8 - 0:14] Scene 3 — Features (9.84s)
+مجاني مية بالمية، خفيف وسريع، وقوي جدًا.
+
+[0:14 - 0:17.6] Scene 4 — Languages (13.98s)
+أهم ميزة؟ بيدعم كل لغات البرمجة اللي تحتاجها.
+
+[0:17.6 - 0:21] Scene 5 — Web focus (17.64s)
+ولو بتعلم مواقع، يبقى ده المكان المناسب لك.
+
+[0:21 - 0:25.4] Scene 6 — Live Server (20.98s)
+بإضافة Live Server، الأكواد بتتحول لموقع قدامك لحظيًا.
+
+[0:25.4 - 0:29.2] Scene 7 — Hype (25.38s)
+VS Code هو البداية الحقيقية لمبرمج مواقع.
+
+[0:29.2 - 0:32.5] Scene 8 — CTA (29.16s)
+لو كنت مهتم بمفاهيم البرمجة، تابعني.

@@ -1,0 +1,479 @@
+[90mPort 3000 is busy, trying another.[39m
+Server ready - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+Building...
+Built in 2002ms
+[90m[s] Open Studio  [e] Open editor (VS Code)[39m
+To restart - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+Building...
+Built in 657ms
+Building...
+Built in 280ms
+Building...
+Built in 241ms
+Building...
+Built in 249ms
+Building...
+Built in 354ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/HookScene.tsx[39m[22m [1m[32m664:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[664:48]
+ [2m662[0m │                     zIndex: 18
+ [2m663[0m │                 },
+ [2m664[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m665[0m │                     pose: "pointUp",
+ [2m666[0m │                     face: "amazed",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/SummaryScene.tsx[39m[22m [1m[32m142:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[142:48]
+ [2m140[0m │                     transformOrigin: "50% 18%"
+ [2m141[0m │                 },
+ [2m142[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m143[0m │                     pose: "excited",
+ [2m144[0m │                     face: "grin",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/TranslatorScene.tsx[39m[22m [1m[32m507:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[507:48]
+ [2m505[0m │                     zIndex: 20
+ [2m506[0m │                 },
+ [2m507[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m508[0m │                     pose: "explain",
+ [2m509[0m │                     face: "talk",
+     ╰────
+[0m
+Built in 377ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/SummaryScene.tsx[39m[22m [1m[32m142:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[142:48]
+ [2m140[0m │                     transformOrigin: "50% 18%"
+ [2m141[0m │                 },
+ [2m142[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m143[0m │                     pose: "excited",
+ [2m144[0m │                     face: "grin",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/TranslatorScene.tsx[39m[22m [1m[32m507:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[507:48]
+ [2m505[0m │                     zIndex: 20
+ [2m506[0m │                 },
+ [2m507[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m508[0m │                     pose: "explain",
+ [2m509[0m │                     face: "talk",
+     ╰────
+[0m
+Built in 483ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/SummaryScene.tsx[39m[22m [1m[32m142:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[142:48]
+ [2m140[0m │                     transformOrigin: "50% 18%"
+ [2m141[0m │                 },
+ [2m142[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m143[0m │                     pose: "excited",
+ [2m144[0m │                     face: "grin",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/TranslatorScene.tsx[39m[22m [1m[32m507:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[507:48]
+ [2m505[0m │                     zIndex: 20
+ [2m506[0m │                 },
+ [2m507[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m508[0m │                     pose: "explain",
+ [2m509[0m │                     face: "talk",
+     ╰────
+[0m
+Built in 384ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/SummaryScene.tsx[39m[22m [1m[32m142:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[142:48]
+ [2m140[0m │                     transformOrigin: "50% 18%"
+ [2m141[0m │                 },
+ [2m142[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m143[0m │                     pose: "excited",
+ [2m144[0m │                     face: "grin",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/TranslatorScene.tsx[39m[22m [1m[32m507:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[507:48]
+ [2m505[0m │                     zIndex: 20
+ [2m506[0m │                 },
+ [2m507[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m508[0m │                     pose: "explain",
+ [2m509[0m │                     face: "talk",
+     ╰────
+[0m
+Built in 352ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/SummaryScene.tsx[39m[22m [1m[32m142:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[142:48]
+ [2m140[0m │                     transformOrigin: "50% 18%"
+ [2m141[0m │                 },
+ [2m142[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m143[0m │                     pose: "excited",
+ [2m144[0m │                     face: "grin",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/TranslatorScene.tsx[39m[22m [1m[32m507:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[507:48]
+ [2m505[0m │                     zIndex: 20
+ [2m506[0m │                 },
+ [2m507[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m508[0m │                     pose: "explain",
+ [2m509[0m │                     face: "talk",
+     ╰────
+[0m
+Built in 354ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/SummaryScene.tsx[39m[22m [1m[32m142:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[142:48]
+ [2m140[0m │                     transformOrigin: "50% 18%"
+ [2m141[0m │                 },
+ [2m142[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m143[0m │                     pose: "excited",
+ [2m144[0m │                     face: "grin",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/TranslatorScene.tsx[39m[22m [1m[32m507:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[507:48]
+ [2m505[0m │                     zIndex: 20
+ [2m506[0m │                 },
+ [2m507[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m508[0m │                     pose: "explain",
+ [2m509[0m │                     face: "talk",
+     ╰────
+[0m
+Built in 315ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/SummaryScene.tsx[39m[22m [1m[32m142:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[142:48]
+ [2m140[0m │                     transformOrigin: "50% 18%"
+ [2m141[0m │                 },
+ [2m142[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m143[0m │                     pose: "excited",
+ [2m144[0m │                     face: "grin",
+     ╰────
+[0m
+Built in 300ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/SummaryScene.tsx[39m[22m [1m[32m142:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[142:48]
+ [2m140[0m │                     transformOrigin: "50% 18%"
+ [2m141[0m │                 },
+ [2m142[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m143[0m │                     pose: "excited",
+ [2m144[0m │                     face: "grin",
+     ╰────
+[0m
+Built in 310ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/SummaryScene.tsx[39m[22m [1m[32m142:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[142:48]
+ [2m140[0m │                     transformOrigin: "50% 18%"
+ [2m141[0m │                 },
+ [2m142[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m143[0m │                     pose: "excited",
+ [2m144[0m │                     face: "grin",
+     ╰────
+[0m
+Built in 307ms
+Building...
+[1m[33mWARNING[39m[22m in [1m./src/browser/scenes/CtaScene.tsx[39m[22m [1m[32m236:49-57[39m[22m
+  [33m⚠[0m ESModulesLinkingWarning: export 'Presenter' (imported as 'Presenter') was not found in '../parts' (possible exports: BoltIcon, BuildingIcon, ChromeLogo, EdgeLogo, FirefoxLogo, PaletteIcon, SafariLogo, Twinkles)
+     ╭─[236:48]
+ [2m234[0m │                     transformOrigin: "50% 100%"
+ [2m235[0m │                 },
+ [2m236[0m │                 children: /*#__PURE__*/ _jsxDEV(Presenter, {
+     · [35;1m                                                ─────────[0m
+ [2m237[0m │                     pose: "pointDown",
+ [2m238[0m │                     face: "smile",
+     ╰────
+[0m
+Built in 632ms
+Building...
+Built in 296ms
+Building...
+Built in 353ms
+Building...
+Built in 342ms
+Building...
+Built in 327ms
+Building...
+Built in 357ms
+Building...
+Built in 330ms
+Building...
+Built in 296ms
+Building...
+Built in 313ms
+Building...
+Built in 329ms
+Building...
+Built in 277ms
+Building...
+Built in 302ms
+Building...
+Built in 355ms
+Building...
+Built in 301ms
+Building...
+Built in 303ms
+Building...
+Built in 343ms
+Building...
+Built in 392ms
+Building...
+Built in 437ms
+Building...
+Built in 1005ms
+Building...
+Built in 1167ms
+To restart - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+To restart - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+To restart - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+Building...
+Built in 501ms
+Building...
+Built in 871ms
+To restart - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+To restart - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+Building...
+Built in 409ms
+Building...
+Built in 331ms
+Building...
+Built in 322ms
+Building...
+Built in 235ms
+Building...
+Built in 459ms
+Building...
+Built in 239ms
+Building...
+Built in 311ms
+Building...
+Built in 329ms
+Building...
+Built in 339ms
+Building...
+Built in 299ms
+Building...
+Built in 450ms
+Building...
+Built in 359ms
+Building...
+Built in 342ms
+Building...
+Built in 296ms
+[31m[31mAn error occurred in the Studio:[39m[31m[39m
+[31m[41m[37m TypeError [39m[31m[49m Failed to fetch[39m
+[31m[39m
+[31mat [4m./node_modules/remotion/dist/esm/no-react.mjs:1520[24m[39m
+[31m[90m1517[39m[31m │ [90mif (cached) {[39m[31m[39m
+[31m[90m1518[39m[31m │ [90m  return cached;[39m[31m[39m
+[31m[90m1519[39m[31m │ [90m}[39m[31m[39m
+[31m1520 │ const promise = fetch(fontUrl).then((response) => {[39m
+[31m[90m1521[39m[31m │ [90m  if (!response.ok) {[39m[31m[39m
+[31m[90m1522[39m[31m │ [90m    throw new Error(`Failed to load font ${JSON.stringify(fontUrl)}: ${response.status} ${response.statusText}`);[39m[31m[39m
+[31m[90m1523[39m[31m │ [90m  }[39m[31m[39m
+To restart - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+Building...
+Built in 437ms
+To restart - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+To restart - Local: [4mhttp://localhost:3001[24m, Network: [4mhttp://10.133.150.201:3001[24m
+Building...
+Built in 652ms
+Building...
+Built in 511ms
+Building...
+Built in 361ms
+Building...
+Built in 1450ms
+Building...
+Built in 486ms
+Building...
+Built in 470ms
+Building...
+Built in 590ms
+Building...
+Built in 486ms
+Building...
+Built in 578ms
+Building...
+Built in 1074ms
+Building...
+Built in 1600ms
+Building...
+Built in 1577ms
+Building...
+Built in 533ms
+Building...
+Built in 589ms
+Building...
+Built in 647ms
+Building...
+Built in 428ms
+Building...
+Built in 623ms
+Building...
+Built in 607ms
+Building...
+Built in 712ms
+Building...
+Built in 560ms
+Building...
+Built in 757ms
+Building...
+Built in 495ms
+Building...
+Built in 513ms
+Building...
+Built in 465ms
+Building...
+Built in 626ms
+Building...
+Built in 1627ms
+Building...
+Built in 1352ms
+Building...
+Built in 766ms
+Building...
+Built in 1019ms
+Building...
+Built in 751ms
+Building...
+Built in 615ms
+Building...
+Built in 866ms
+Building...
+Built in 656ms

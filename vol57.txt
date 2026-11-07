@@ -1,0 +1,9 @@
+[mp3 @ 0000027a780d2dc0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from 'public\voice\csstypoghraphyvoice.mp3':
+  Metadata:
+    encoder         : Lavf63.1.102
+  Duration: 00:01:02.85, start: 0.000000, bitrate: 130 kb/s
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, s16p, 128 kb/s
+[AVFilterGraph @ 0000027a780eb4c0] No such filter: 'volumedetect'
+Error opening output file NUL.
+Error opening output files: Filter not found
